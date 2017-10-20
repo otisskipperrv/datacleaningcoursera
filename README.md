@@ -14,10 +14,6 @@ Here are the raw data used for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
-For each record it is provided:
-======================================
-
-
 The dataset includes the following files:
 =========================================
 
